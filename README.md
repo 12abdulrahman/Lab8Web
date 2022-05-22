@@ -1,9 +1,0 @@
-#Lab8Web
-
-NAMA : ABDUL RAHMAN
-
-NIM : 312010061
-
-KELAS : TI.20.B1
-
-
