@@ -8,12 +8,12 @@ Praktikum kali ini tentang PHP dasar
 
 ![input_gambar](https://github.com/12abdulrahman/Lab8Web/blob/main/ss/1.JPG)
 <br>
-![input_gambar](https://github.com/12abdulrahman/Lab8Web/blob/main/ss/2.JPG)
+![input_gambar](https://github.com/12abdulrahman/Lab8Web/blob/main/ss/2.jpg)
 
 <br>
 
-![input_gambar](https://github.com/12abdulrahman/Lab8Web/blob/main/ss/3.JPG)
+![input_gambar](https://github.com/12abdulrahman/Lab8Web/blob/main/ss/3.jpg)
 
 <br>
 
-![Input_gambar](https://github.com/12abdulrahman/Lab8Web/blob/main/ss/4.JPG)
+![Input_gambar](https://github.com/12abdulrahman/Lab8Web/blob/main/ss/4.jpg)
