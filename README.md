@@ -6,4 +6,4 @@ Kelas : TI.20.B1
 
 Praktikum kali ini tentang PHP dasar
 
-![SS]1.JPG
+![ss]1.JPG
