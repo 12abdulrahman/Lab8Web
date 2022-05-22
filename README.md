@@ -6,4 +6,4 @@ Kelas : TI.20.B1
 
 Praktikum kali ini tentang PHP dasar
 
-![ss]1.JPG
+![input_gambar]https://github.com/12abdulrahman/Lab8Web/blob/main/ss/1.JPG
